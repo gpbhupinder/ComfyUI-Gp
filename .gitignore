@@ -14,3 +14,7 @@ venv/
 /web/extensions/*
 !/web/extensions/logging.js.example
 !/web/extensions/core/
+comfyui.prev2.log
+comfyui.prev.log
+output/_output_images_will_be_put_here
+comfyui.log
